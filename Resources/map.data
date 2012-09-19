@@ -1,0 +1,5 @@
+[
+  [["insect", 100, 100], ["insect", 300, 100], ["insect", 500, 100], ["insect", 200, 200], ["insect", 400, 200], ["speedinsect", 320, 40]],
+  [["insect", 40, 100], ["insect", 100, 100], ["insect", 200, 100], ["insect",300,100], ["insect",400,100], ["insect",500,100], ["biginsect", 200, 200], ["biginsect",400,200], ["speedinsect",300,350]],
+  [["speedinsect",100,150], ["speedinsect", 200,150], ["speedinsect", 300,150], ["speedinsect",400,150], ["speedinsect",500,150], ["biginsect",200,225], ["biginsect", 400,225]]
+]
